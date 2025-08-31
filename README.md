@@ -7,9 +7,9 @@
 
 - **Task:** Check _[ad-hoc-requests](https://github.com/Saptarshi-Basu-28/Consumer-Goods-Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf)_ - there are 10 ad hoc requests for which the business needs insights. SQL queries are to be run to answer these requests.
 
-- **Codes:** Check _[Query Codes](https://github.com/Saptarshi-Basu-28/Consumer-Goods-Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf)_ - These are the sql query codes for the 10 ad hoc requests for which the business needs insights. 
+- **Codes:** Check _[SQL Query Codes](https://github.com/Saptarshi-Basu-28/Consumer-Goods-Ad-Hoc-Insights/blob/main/QueryCodes.txt)_ - These are the sql query codes for the 10 ad hoc requests for which the business needs insights. 
 
-  ## Skill Learnings:
+  ## Learnings:
 - [x]	Multi table Joins
 - [x]	Sub Queries
 - [x]	Common Table Expressions
